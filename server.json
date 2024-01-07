@@ -13,8 +13,16 @@
       "description": "Hamburguer",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 30,
+      "price": 60,
       "createdAt": "2022-02-14T18:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 2200,
+      "createdAt": "2022-02-15T18:30:00.000Z"
     }
   ]
 }
